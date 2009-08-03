@@ -1,0 +1,12 @@
+Bubblo demo done at iPhoneDevCamp3 by Annika, with help from Dad
+
+Bubblo is a simple game of chance, where you press a Play button (or
+shake the device) and get either a crown (Win!) or a hairball (Lose).
+The chances are 50/50.
+
+Comment from Annika: Really fun to write. =)
+
+Comment from dad: Some of the BOOL flags are a bit funky at the moment.
+Probably could be streamlined. Note the flip view doesn't do anything...
+you might not even be able to get to it in this version.
+
